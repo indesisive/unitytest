@@ -2,9 +2,9 @@
 "employees":[
     {"firstName":"John", "lastName":"Doe"},
     {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
-    {"firstName":"Mike", "lastName":"Musk"}
-    {"firstName":"Sam", "lastName":"Boss"}
-    {"firstName":"Ben", "lastName":"Benson"}
+    {"firstName":"Peter", "lastName":"Jones"},
+    {"firstName":"Mike", "lastName":"Musk"},
+    {"firstName":"Sam", "lastName":"Boss"},
+    {"firstName":"Ben", "lastName":"Benson"},
   ]
 }
