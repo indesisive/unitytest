@@ -1,10 +1,13 @@
 {
-"employees":[
-    {"firstName":"John", "lastName":"Doe"},
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"},
-    {"firstName":"Mike", "lastName":"Musk"},
-    {"firstName":"Sam", "lastName":"Boss"},
-    {"firstName":"Ben", "lastName":"Benson"}
+"games":[
+    {
+        "1" [ 
+        {
+            "gameName":"A Short Story", 
+            "creatorAddress":"0xf96139c876f36dfA560dD83613a3C212F97828df",
+            "description":"The first game added to the chained community"
+        }
+        ]
+    },
   ]
 }
