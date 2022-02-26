@@ -3,7 +3,8 @@
 		"0z1": [
             {"name": "A Short Story"},
 			{"creatorAddress": "0xf96139c876f36dfA560dD83613a3C212F97828df"},
-			{"description": "The first game in the chained community"}
+			{"description": "The first game in the chained community"},
+			{"imageURL": "https://raw.githubusercontent.com/theChainCom/unitytest/main/adventure/games/A%20Short%20Story/gameCover.png"} 
             ]
 	}]
 }
